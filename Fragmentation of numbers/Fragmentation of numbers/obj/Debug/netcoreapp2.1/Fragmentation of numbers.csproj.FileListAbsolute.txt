@@ -1,0 +1,11 @@
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\bin\Debug\netcoreapp2.1\Fragmentation of numbers.deps.json
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\bin\Debug\netcoreapp2.1\Fragmentation of numbers.runtimeconfig.json
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\bin\Debug\netcoreapp2.1\Fragmentation of numbers.runtimeconfig.dev.json
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\bin\Debug\netcoreapp2.1\Fragmentation of numbers.dll
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\bin\Debug\netcoreapp2.1\Fragmentation of numbers.pdb
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\obj\Debug\netcoreapp2.1\Fragmentation of numbers.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\obj\Debug\netcoreapp2.1\Fragmentation of numbers.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\obj\Debug\netcoreapp2.1\Fragmentation of numbers.AssemblyInfoInputs.cache
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\obj\Debug\netcoreapp2.1\Fragmentation of numbers.AssemblyInfo.cs
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\obj\Debug\netcoreapp2.1\Fragmentation of numbers.dll
+C:\Users\mrlma\source\repos\Fragmentation of numbers\Fragmentation of numbers\obj\Debug\netcoreapp2.1\Fragmentation of numbers.pdb
